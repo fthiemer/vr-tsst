@@ -398,7 +398,7 @@ public class GameManager : MonoBehaviour
     }
 
     /// <summary>
-    /// Craete a Round object from the settings
+    /// Create a Round object from the settings
     /// </summary>
     /// <param name="settings"></param>
     /// <param name="secondRound"></param>

@@ -59,7 +59,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.pico.livepreview": {
-      "version": "file:C:/Users/N8/Documents/0_Master/Master_12_2024/Unity Live Preview Plugin-1.0.4-20241205",
+      "version": "file:../Unity Live Preview Plugin-1.0.4-20241205",
       "depth": 0,
       "source": "local",
       "dependencies": {
@@ -168,7 +168,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.xr.openxr.picoxr": {
-      "version": "file:C:/Users/N8/Documents/0_Master/Master_12_2024/PicoOpenXR",
+      "version": "file:../PicoOpenXR",
       "depth": 0,
       "source": "local",
       "dependencies": {
