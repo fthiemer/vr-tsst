@@ -1,0 +1,29 @@
+Begin Study at: 22-01-2025 16:29:51.
+
+Settings used:
+One Auditor?: False
+Second round announcement?: True
+Language: Deutsch
+First round: [Subtraction, Computation, NumberSeries, Stroop, ResolveTerms]
+Second round: [NBack, ResolveTerms, Stroop, NumberSeries, Computation]
+
+Participant Number: 1
+
+--------------------------------------
+
+Started task "Uninitialized" at 22-01-2025 16:29:51
+
+--------------------------------------
+
+Started task "Start" at 22-01-2025 16:33:00
+
+--------------------------------------
+
+Started task "WaitingRoom" at 22-01-2025 16:33:00
+Current task: "WaitingRoomTask"; Current state of Task: "Inactive" at 22-01-2025 16:33:00
+Current task: "WaitingRoomTask"; Current state of Task: "Initialized" at 22-01-2025 16:33:00
+
+--------------------------------------
+
+Restarted task "WaitingRoom" at 22-01-2025 16:33:06
+Current task: "WaitingRoomTask"; Current state of Task: "Initialized" at 22-01-2025 16:33:06

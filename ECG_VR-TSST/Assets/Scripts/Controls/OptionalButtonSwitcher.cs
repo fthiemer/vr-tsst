@@ -58,5 +58,4 @@ public class OptionalButtonSwitcher : MonoBehaviour
         DisableAll();
         ReenableButtons();
     }
-
 }
